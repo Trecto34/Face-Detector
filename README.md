@@ -10,13 +10,13 @@ A Python program using <a href="https://opencv.org/">Open-CV</a> that detects a 
 
 ## Usage: :fire:
 
-- Clone this repository using: `git clone https://github.com/`
+- Clone this repository using: `git clone https://github.com/Trecto34/Face-Detector`
 - Install the Requirements using: `pip install -r requirements.txt`
 - Run `python Face_Detector.py`
 
 ## Todo:
 
-- [ ] Add the WebCam funcionality
+- [x] Add the WebCam funcionality
 
 ## Note: :pencil:
 
