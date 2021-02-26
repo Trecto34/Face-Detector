@@ -1,29 +1,28 @@
-# Python Face Detector :snake:
+# :snake: Python A.I that drives
 
-## Description: :rocket:
+## :rocket: Description:
 
-A Python program using <a href="https://opencv.org/">Open-CV</a> that detects a face in a image and squares it
+A Python program using <a href="https://neat-python.readthedocs.io/en/latest/">Neat-Python</a> and <a href="https://www.pygame.org/news">PyGame</a> that learn to drive
 
-## Requirements: :ok_hand:
+![](screenshot.png)
 
-- Python3 or above
+## :ok_hand: Requirements:
 
-## Usage: :fire:
+- Python 3.5 or above
+- PyGame 2
+- Neat-Python
 
-- Clone this repository using: `git clone https://github.com/Trecto34/Face-Detector`
+## :fire: Usage:
+
+- Clone this repository using: `git clone https://github.com/Trecto34/drive-ai`
 - Install the Requirements using: `pip install -r requirements.txt`
-- Run `python Face_Detector.py`
+- Run `python main.py`
 
-## Todo:
+## :pencil: Note:
 
-- [x] Add the WebCam funcionality
-
-## Note: :pencil:
-
-Well, the "NOTE" is a practice that I will adhere to in my projects
-
-Python was my first language, unfortunately I lost all my projects, and today I had the urge to do something, so I decided to do some basic stuff with A.I, which is my big love
+This is the most fun thing I've programmed so far, I love Artificial Intelligence so much and implementing it into a game is so amazing to me, I even managed to learn a little bit about PyGame in the process.
+I am thinking of doing something similar only in a Flappy Bird replica, but who knows?
 
 ## Credits:
 
-The entire project was taken from this <a href="https://www.youtube.com/watch?v=XIrOM9oP3pA">video</a>!
+The basis of the project was taken from this <a href="hhttps://github.com/monokim/framework_tutorial/tree/master/neat">repository</a>!
